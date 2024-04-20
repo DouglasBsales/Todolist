@@ -1,4 +1,4 @@
-# Gerenciamento de tarefas ( todolist)
+# Gerenciamento de tarefas ( todolist )
 
 Aplicação realizada para fixação de conhecimentos aprendidos <br>
 utilizando React!
